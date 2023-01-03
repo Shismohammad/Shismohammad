@@ -1,12 +1,6 @@
 ### Hi there 👋
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shismohammad&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Shismohammad/Shismohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
