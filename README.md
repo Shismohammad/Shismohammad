@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br/>
-I'm Shismohammad from India, and I am Software Developer. I enjoy learning languages and frameworks like Java, React and React Native, as well as working in computer vision. I have good experience in image processing. I am well-versed in C, C# and Java also can write code in C++, Python and MATLAB. I am an Artificial Intelligence enthusiast.
+I'm Shismohammad from India, and I am Software Developer. I am well-versed in C, C# and Java also can write code in C++, Python and MATLAB. I take great care in the experience, architecture, and code quality of the things I build.  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I enjoy learning languages and frameworks like Java, React and React Native. Also I love working in computer vision domain. I have good experience in image processing. Also I am an Artificial Intelligence enthusiast.
 
 <!-- --- -->
 #
