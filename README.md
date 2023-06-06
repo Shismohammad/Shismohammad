@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Shismohammad! 👋
 <br/>
-I'm Shismohammad from India, and I am Software Developer. I am well-versed in C, C# and Java also can write code in C++, Python and MATLAB. I take great care in the experience, architecture, and code quality of the things I build.  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I enjoy learning languages and frameworks like Java, React and React Native. Also I love working in computer vision domain. I have good experience in image processing. Also I am an Artificial Intelligence enthusiast.
+I'm a Software Developer from India, passionate about creating high-quality software solutions.. I am well-versed in C and Java also can write code in C# , C++, Python and MATLAB.  I prioritize user experience, architecture, and code quality in my projects of the things I build.  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I enjoy learning languages and frameworks like Java, Spring, Spring Boot, React and React Native. Also I love working in computer vision domain. I have good experience in image processing. I'm also an Artificial Intelligence enthusiast, constantly expanding my knowledge in this field.
 
-<!-- --- -->
-#
+I'm always open to collaborating on interesting projects and contributing to the open-source community. If you have any ideas, suggestions, or just want to chat, feel free to reach out to me!
+
+### 📫 Contact Me:
+
+    Email: shismohammadmulla@gmail.com
+    LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shismohammad-mulla-321328236/)
+    
+Let's connect and make a positive impact on the world of software development together! 😄
 
 ### 🧰 Languages and Tools
 
