@@ -1,13 +1,12 @@
 ## Hi there, I'm Shismohammad! 👋
 <br/>
-I'm a Software Developer from India, passionate about creating high-quality software solutions.. I am well-versed in C and Java also can write code in C# , C++, Python and MATLAB.  I prioritize user experience, architecture, and code quality in my projects of the things I build.  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I enjoy learning languages and frameworks like Java, Spring, Spring Boot, React and React Native. Also I love working in computer vision domain. I have good experience in image processing. I'm also an Artificial Intelligence enthusiast, constantly expanding my knowledge in this field.
-
-I'm always open to collaborating on interesting projects and contributing to the open-source community. If you have any ideas, suggestions, or just want to chat, feel free to reach out to me!
+I am a Software Developer from India, passionate about creating high-quality software solutions. I am well-versed in C and Java, and I can also write code in C#, C++, Python, and MATLAB. I prioritize user experience, architecture, and code quality in the projects I build. I enjoy learning languages and frameworks such as Java, Spring, Spring Boot, React, and React Native. Additionally, I love working in the computer vision domain and have good experience in image processing. I am also an Artificial Intelligence enthusiast, constantly expanding my knowledge in this field. I have learned a lot from the open-source community and appreciate how collaboration and knowledge sharing occur through open-source. I am always open to collaborating on interesting projects and contributing to the open-source community. If you have any ideas, or suggestions, or simply want to chat, feel free to reach out to me!
 
 ### 📫 Contact Me:
 
-    Email: shismohammadmulla@gmail.com
-    LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shismohammad-mulla-321328236/)
+Email: [![Email](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg)](shismohammadmulla@gmail.com)
+LinkedIn: [![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/shismohammad-mulla-321328236/)
+
     
 Let's connect and make a positive impact on the world of software development together! 😄
 
