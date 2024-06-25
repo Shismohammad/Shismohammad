@@ -10,7 +10,7 @@ I am a Software Engineer from India, passionate about creating high-quality soft
 
 [<img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/shismohammad-mulla-321328236/)
 
-### 🧰 Languages and Tools
+### 🧰 Languages / Technologies and Tools
 
 <br/>
 <div><img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
